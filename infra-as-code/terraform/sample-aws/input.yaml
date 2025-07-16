@@ -5,11 +5,11 @@ cluster_name: "daniel-testhealth-k8supgrade"
 
 # Name you want to give to your Database
 # DB name must contain only alphanumeric characters
-db_name: "daniel-testhealthdb"
+db_name: "danieltesthealthdb"
 
 # Replace with DB username you want
 # DB user name must contain only alphanumeric characters
-db_username: "daniel-testhealth" 
+db_username: "danieltesthealth" 
 
 # Replace with Domain name you want for your web applications
 domain_name: "daniel-hcm-console.digit.org"
